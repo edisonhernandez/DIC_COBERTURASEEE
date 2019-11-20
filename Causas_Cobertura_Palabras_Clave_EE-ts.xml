@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+  <name>Causas_Cobertura_Palabras_Clave_EE-ts</name>
+  <description>Causas_Cobertura_Palabras_Clave_EE</description>
+  <version></version>
+  <vendor></vendor>
+  <types>
+    <typeDescription>
+      <name>SegurosEquinoccial.Causas_Cobertura_Palabras_Clave_EE</name>
+      <description>Causas_Cobertura_Palabras_Clave_EE</description>
+      <supertypeName>uima.tt.DictionaryEntryAnnotation</supertypeName>
+    </typeDescription>
+    </types>
+</typeSystemDescription>

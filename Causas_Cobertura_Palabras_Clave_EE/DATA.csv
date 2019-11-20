@@ -1,0 +1,41 @@
+"COL1","COL2"
+"cortocircuito	1000cortocircuitos	1000","N"
+"sobrevoltaje	1000sobrevoltajes	1000","N"
+"falla	1000fallas	1000","N"
+"aislamiento	1000aislamientos	1000","N"
+"arco	1000arcos	1000","N"
+"voltaico	1000voltaica	1000","N"
+"fenomeno	1000fenomenos	1000fenómeno	1000fenómenos	1000","N"
+"electromagneticos	1000electromagneticas	1000","N"
+"electrostática	1000electrostatica	1000electrostaticas	1000electrostatico	1000electrostaticos	1000electrostáticas	1000electrostático	1000","N"
+"acción	1000accion	1000acciones	1000","N"
+"directo	1000directa	1000directas	1000directos	1000","J"
+"electricidad	1000electricidades	1000","N"
+"atmosférica	1000atmosferica	1000atmosferico	1000atmosférico	1000","N"
+"error	1000errores	1000","N"
+"diseño	1000diseno	1000diseños	1000","N"
+"defecto	1000defectos	1000","N"
+"material	1000materiales	1000","N"
+"construcción	1000construccion	1000construcciones	1000","N"
+"montaje	1000montajes	1000","N"
+"defectuoso	1000defectuosa	1000defectuosas	1000defectuosos	1000","J"
+"reparación	1000reparacion	1000reparaciones	1000","N"
+"impericia	1000impericias	1000","N"
+"negligencia	1000negligencias	1000","N"
+"manejo	1000manejos	1000","N"
+"inadecuado	1000inadecuada	1000inadecuadas	1000inadecuados	1000","J"
+"operación	1000operacion	1000operaciones	1000","N"
+"dolo	1000dolos	1000","N"
+"acto	1000actos	1000","N"
+"mal	1000males	1000","N"
+"intencionado	1000intencionada	1000intencionadas	1000intencionados	1000","J"
+"tercero	1000tercera	1000terceras	1000terceros	1000","N"
+"dispositivo	1000dispositivos	1000","N"
+"regulación	1000regulacion	1000regulaciones	1000","N"
+"accidental	1000accidentales	1000","J"
+"caída	1000caida	1000caidas	1000caídas	1000","N"
+"violencia	1000violencias	1000","N"
+"robo	1000robos	1000","N"
+"portador	1000portadora	1000portadoras	1000portadores	1000","N"
+"externo	1000externa	1000externas	1000externos	1000","N"
+"dato	1000datos	1000","N"
